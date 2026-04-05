@@ -1,7 +1,7 @@
 {
   "name": "3d-studio-x",
-  "buildCommand": "npm install && npx vite build",
-  "installCommand": "npm install",
-  "outputDirectory": "dist",
-  "framework": "vite"
+  "buildCommand": "echo 'Static deploy'",
+  "installCommand": "echo 'Skipping install'",
+  "outputDirectory": ".",
+  "framework": null
 }
