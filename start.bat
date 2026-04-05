@@ -1,0 +1,3 @@
+@echo off
+echo Starting 3d-studio-x via Test Hub...
+start "" "http://localhost:3000/project-files/3d-studio-x/"

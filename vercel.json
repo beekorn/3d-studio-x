@@ -1,0 +1,7 @@
+{
+  "name": "3d-studio-x",
+  "buildCommand": "echo 'Static deploy'",
+  "installCommand": "echo 'Skipping install - CDN imports'",
+  "outputDirectory": ".",
+  "framework": null
+}
